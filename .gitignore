@@ -1,0 +1,13 @@
+/build/
+/.gradle/
+/.idea/
+/.git/
+/gradle/
+/solution/
+settings.gradle
+gradle*
+.DS_Store
+*.ctxt
+*.class
+*.iml
+.DS_Store
